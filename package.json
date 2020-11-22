@@ -14,8 +14,7 @@
     "url": "git://github.com/jameskyburz/google-cloud-function-http-server.git"
   },
   "author": {
-    "name": "james kyburz",
-    "email": "james.kyburz@gmail.com"
+    "name": "Isac Canedo"
   },
   "files": [
     "src"
